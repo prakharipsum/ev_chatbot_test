@@ -93,8 +93,8 @@ with st.sidebar:
     st.markdown(
         """
     <div class='profile-card'>
-        <div class='avatar'>A</div>
-        <h4 style='margin-top:10px;'>Aditya Parmar</h4>
+        <div class='avatar'>P</div>
+        <h4 style='margin-top:10px;'>Prakhar Kumar/h4>
         <p style='font-size:13px;color:#555;'>EV Dashboard User</p>
     </div>
     """,
@@ -361,4 +361,5 @@ elif page == "About":
 - Dashboard + Analytics  
 """
     )
+
 
